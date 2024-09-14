@@ -1,0 +1,2 @@
+# shukessaBot
+Simple discord bot
