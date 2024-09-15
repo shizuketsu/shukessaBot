@@ -13,7 +13,7 @@ module.exports = {
             const max = Math.floor(99999999999);
             const r = Math.floor(Math.random() * (max - min + 1)) + min;
 
-            msg.channel.send(String(r));
+            msg.reply(String(r));
         }
     }
 }

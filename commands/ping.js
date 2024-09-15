@@ -4,6 +4,6 @@ module.exports = {
     name: 'ping',
     description: 'pong',
     async execute(msg, args) {
-        msg.channel.send('Pong!');
+        msg.reply('Pong!');
     }
 }
