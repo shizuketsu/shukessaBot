@@ -4,7 +4,7 @@ Simple discord bot
 - Moderation
 - Information commands
 - Commands for fun
-- Utility
+- Utilitys
 ## License
 Copyright (c) Shizuketsu. All rights reserved.
 
